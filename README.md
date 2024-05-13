@@ -1,6 +1,6 @@
 # sse-ws-frontend
 
-[![Build status](https://ci.appveyor.com/api/projects/status/mcgkvgr422dloeq4?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-sse-ws-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/i151i5juc1vftfia?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-sse-ws-frontend)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ahj-sse-ws-frontend/)
 ---
