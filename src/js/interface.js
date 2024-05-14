@@ -255,7 +255,7 @@ export default class Interface {
             return false;
           }
         } else if (this.auth === 'Register') {
-          if (res.status === 'exists') {
+          if ((res.status === 'exists') || (res.status === 'Password not found')) {
             this.toolTip(nickName, 'This nick-name is already in use');
             return false;
           }
