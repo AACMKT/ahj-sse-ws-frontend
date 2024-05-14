@@ -309,6 +309,7 @@ export default class Interface {
   usersHandler(users) {
     const subscriptions = document.querySelector('.subscriptions');
     if (subscriptions != null) {
+      users = [...new Set(users)];
       users.forEach((el) => {
         const username = document.createElement('span');
         username.classList.add('userbox-text');
